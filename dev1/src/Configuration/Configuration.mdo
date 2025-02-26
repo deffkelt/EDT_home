@@ -363,6 +363,7 @@
   <catalogs>Catalog.ИсходящиеПисьма</catalogs>
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
