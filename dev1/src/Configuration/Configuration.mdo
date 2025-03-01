@@ -345,25 +345,25 @@
   <commonForms>CommonForm.ФормаВыбораПользователяСистемыВзаимодействия</commonForms>
   <catalogs>Catalog.Регионы</catalogs>
   <catalogs>Catalog.Банки</catalogs>
-  <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.ВидыЦен</catalogs>
   <catalogs>Catalog.ВходящиеПисьма</catalogs>
   <catalogs>Catalog.ЗначенияХарактеристик</catalogs>
-  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.МобильныеУстройства</catalogs>
   <catalogs>Catalog.НастройкиТорговогоОборудования</catalogs>
   <catalogs>Catalog.ХранимыеФайлы</catalogs>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.ПочтовыеВложения</catalogs>
-  <catalogs>Catalog.РасчетныеСчета</catalogs>
-  <catalogs>Catalog.РасчетныеСчетаКонтрагентов</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.ИсходящиеПисьма</catalogs>
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.РасчетныеСчета</catalogs>
+  <catalogs>Catalog.РасчетныеСчетаКонтрагентов</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
