@@ -364,6 +364,7 @@
   <catalogs>Catalog.РасчетныеСчета</catalogs>
   <catalogs>Catalog.РасчетныеСчетаКонтрагентов</catalogs>
   <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
