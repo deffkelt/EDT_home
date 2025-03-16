@@ -376,6 +376,7 @@
   <documents>Document.Документ2</documents>
   <documents>Document.Документ4</documents>
   <documents>Document.Документ5</documents>
+  <documents>Document.Документ7</documents>
   <documentJournals>DocumentJournal.ДокументыПродаж</documentJournals>
   <documentJournals>DocumentJournal.ФинансовыеДокументы</documentJournals>
   <enums>Enum.ВидыТоваров</enums>
