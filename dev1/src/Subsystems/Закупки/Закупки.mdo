@@ -20,4 +20,5 @@
   <content>CommonCommand.УстановитьСканерШтрихкодов</content>
   <content>CommonCommand.НастроитьСканерШтрихКодов</content>
   <content>CommonCommand.ОстаткиТоваровНаСкладахКоманда</content>
+  <content>Catalog.Сотрудники</content>
 </mdclass:Subsystem>
