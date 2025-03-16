@@ -368,6 +368,7 @@
   <catalogs>Catalog.Справочник2</catalogs>
   <catalogs>Catalog.Справочник10</catalogs>
   <catalogs>Catalog.Справочник11</catalogs>
+  <catalogs>Catalog.Справочник12</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
